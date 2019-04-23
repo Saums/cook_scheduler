@@ -1,6 +1,8 @@
 ## cook_scheduler
 This program generates a cook schedule given a list of date preferences for each cook. In particular, it uses linear programming to select a schedule minimizing the average cook preference.
 
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
+
 ### Usage
 ```
 > python cook_scheduler.py --help
